@@ -4,6 +4,8 @@ about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
+Alternate ID: ''
+Alternate URL: ''
 
 ---
 
